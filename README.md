@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./the-bridge-edem.png" alt="the-bridge-edem">
+  <img src="https://github.com/Mvepla/desafio_tripulaciones/blob/main/images/the-bridge-edem.png" alt="the-bridge-edem">
 </p>
 
 
@@ -11,7 +11,7 @@
 El desafio de tripulaciones es la práctica integrada en la que trabajan los estudiantes de todas las disciplinas a través de un proyecto real diseñado conjuntamente con uno partner y desarrollado por los estudiantes durante las últimas semanas de formación en el Bootcamp. Con esta práctica los estudiantes se enfrentan al día a día de su futuro profesional trabajando de principio a fin en un proyecto en el que se involucran como miembros del departamento de una empresa o simulando el emprendimiento de un proyecto propio.
 
 <p align="center">
-  <img src="./herramientas.png" alt="metodologia">
+  <img src="https://github.com/Mvepla/desafio_tripulaciones/blob/main/images/herramientas.png" alt="metodologia">
 </p>
 
 Desde el primer momento del proyecto, se crea un tablero a través de la aplicación Trello para coordinarnos dentro del mismo equipo y sobre todo en entre las diferentes verticales. Revisándolo cada mañana durante el daily, creando nuevas tareas y marcando las finalizadas.
@@ -47,7 +47,7 @@ El propietario realiza una foto de la incidencia, esta foto una vez subida pasa 
 
 
 <p align="center">
-  <img src="./Diagrama.PNG" alt="grafico incidencias">
+  <img src="https://github.com/Mvepla/desafio_tripulaciones/blob/main/images/Diagrama.PNG" alt="grafico incidencias">
 </p>
 
 
