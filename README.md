@@ -55,3 +55,20 @@ El propietario realiza una foto de la incidencia, esta foto una vez subida pasa 
 
 3- Asistente virtual: Creación de un Chatbotcon Google Dialogflow que haga las funciones de asistente virtual y tenga implementadas las preguntas tipicas de Q&A.
 
+👥Contribuidores
+
+El éxito de este proyecto es gracias al esfuerzo y dedicación de todo el equipo. Cada contribución ha sido valiosa y nos ha llevado más cerca de nuestros objetivos.
+
+Miguel Vela [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-vela/)
+
+Cristina Ponce [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristinapl/)
+
+Alvaro Lozano [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lvaro-lozano-7212a642/)
+
+
+Beatriz Minguez  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrizminguezpastor/)
+
+
+
+
+
