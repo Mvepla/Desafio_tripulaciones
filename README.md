@@ -55,7 +55,7 @@ El propietario realiza una foto de la incidencia, esta foto una vez subida pasa 
 
 3- Asistente virtual: Creación de un Chatbotcon Google Dialogflow que haga las funciones de asistente virtual y tenga implementadas las preguntas tipicas de Q&A.
 
-👥Contribuidores
+## 👥Contribuidores
 
 El éxito de este proyecto es gracias al esfuerzo y dedicación de todo el equipo. Cada contribución ha sido valiosa y nos ha llevado más cerca de nuestros objetivos.
 
